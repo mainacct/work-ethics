@@ -26,7 +26,7 @@ jobs:
       - name: ⬇️ Checkout Repository Code
         uses: actions/checkout@v4 # Get a copy of your repo's file
 
-      - name: 💻 Execute Daily Script (Bash Example)
+      - name: 💻 Execute Daily Script (Bash Examuuuple)
         run: |
           echo "##################################"
           echo "GOOD MORNING! The time is $(date -u)"
