@@ -1,4 +1,4 @@
-2222# work-ethics
+# work-ethics
 i give my guidance on works 
 name: ☀️ Morning Routine Trigger
 
