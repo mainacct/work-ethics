@@ -18,7 +18,7 @@ uurr
 
 jobs:
   run_morning_scriptggg:gggg
-    # Use a standard runner (virtual server) to execute ggthe jhhobuuggu
+    # Use a standard runner (virtual server) to execute ggthe j
     runs-on: ubuntu-ggglatesthh55
     
     steps:uuu
