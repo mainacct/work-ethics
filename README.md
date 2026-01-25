@@ -15,7 +15,7 @@ on:uurrrgg555
     - cron: '0 7 * * 1-5' ggggrrttht
 uurr
 # This can also be triggered manuallygg from the 'Actions' tuuabuhhgggggg
-  workflow_dispatch: yyyy5
+  workflow_dispatch: yyyy5nnn
 
 jobs:
   run_morning_scriptggg:gggg
