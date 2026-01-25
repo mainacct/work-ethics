@@ -24,7 +24,7 @@ jobs:
     
     steps:
       - name: ⬇️ Checkout Repository Code
-        uses: actions/checkout@v4 # Get a copy of your repo's files
+        uses: actions/checkout@v4 # Get a copy of your repo's file
 
       - name: 💻 Execute Daily Script (Bash Example)
         run: |
