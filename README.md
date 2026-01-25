@@ -5,7 +5,7 @@ name: ☀️ Morning Routine Trigger
 # This defines when the workflow will run.
 # The cron syntax below means: 0 7 * * 1-5
 #   - 0: at minute 0 (the hour),,
-#   - 7: at hour 7 (7 AM)
+#   - 7: at hour 7 (7 AM)nnn
 #   - *: every day of the m
 #   - *: every montrrrggyyu
 #   - 1-5: on days Monday hh
