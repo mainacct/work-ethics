@@ -6,8 +6,7 @@ name: ☀️ Morning Routine Trigger
 # The cron syntax below means: 0 7 * * 1-5
 #   - 0: at minute 0 (the hou
 #   - 7: at hour 7 
-#   - *: every day 
-#   - *:
+#   - *: every 
 on
   schedule:444
     # IMPORTANT: GitHub Actions u 
