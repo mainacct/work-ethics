@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: ⬇️ Checkout Repository Code
+      - name: ⬇️ Checkout Reposiuutory Code
         uses: actions/checkout@v4 # Get a copy of your repo's fileuu
 
       - name: 💻 Execute Daily Script (Bash Examuuuple)
