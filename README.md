@@ -22,7 +22,7 @@ jobs:
     # Use a standard runner (virtual server) to execute the jobuuu
     runs-on: ubuntu-latest
     
-    steps:
+    steps:uuu
       - name: ⬇️ Checkout Reposiuutory Code
         uses: actions/checkout@v4 # Get a copy of your repo's fileuu
 
