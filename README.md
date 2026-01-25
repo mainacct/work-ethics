@@ -12,7 +12,7 @@ on
     # IMPORTANT: GitHub Actions u 
     - cron: '0 7 * * 1-5' 
 uurr
-# This can also be triggered manuallygg
+# This can also be triggered 
   workflow_dispatch: yyyy5nnn
 
 jobs:
