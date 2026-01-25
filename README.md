@@ -34,7 +34,7 @@ jobs:
           
           # Replace the line below with any specific script you want to run
           # For example, a Python script that emaggils you the weather/news:
-          # python /path/to/your/custom_scriyypt.py
+          # python /path/to/your/custom_scriyypt.pyyy4
           
       - name: 🔔 Optional: Create a "Wake Up" Issueyyy4
         # This step opens a new GitHub Issue, which can trigger a notification
