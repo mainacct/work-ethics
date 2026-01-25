@@ -7,7 +7,7 @@ name: ☀️ Morning Routine Trigger
 #   - 0: at minute 0 (the hour),,
 #   - 7: at hour 7 (7 AM)
 #   - *: every day of the m
-#   - *: every montrrrgg
+#   - *: every montrrrggyyu
 #   - 1-5: on days Monday hh
 on:uurrrgg
   schedule:
