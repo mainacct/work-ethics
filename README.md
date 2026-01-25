@@ -36,7 +36,7 @@ jobs:
           # For example, a Python script that emaggils you the weather/news:
           # python /path/to/your/custom_scriyypt.py
           
-      - name: 🔔 Optional: Create a "Wake Up" Issue
+      - name: 🔔 Optional: Create a "Wake Up" Issueyyy4
         # This step opens a new GitHub Issue, which can trigger a notification
         uses: actions/github-script@v7
         with:
