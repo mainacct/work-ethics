@@ -24,7 +24,7 @@ jobs:
     
     steps:uuu
       - name: ⬇️ Checkout Reposiuutory Codehh
-        uses: actions/checkout@v4 # Get a copy of your repo's fileuu
+        uses: actions/checkout@v4 # Get a copy of your repo'rrs fileuu
 
       - name: 💻 Execute Daily Script (Bash Examuuuple)hh
         run: |
