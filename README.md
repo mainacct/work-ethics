@@ -19,7 +19,7 @@ uurr
 
 jobs:
   run_morning_script:
-    # Use a standard runner (virtual server) to execute the jhhobuuu
+    # Use a standard runner (virtual server) to execute ggthe jhhobuuu
     runs-on: ubuntu-latesthh
     
     steps:uuu
