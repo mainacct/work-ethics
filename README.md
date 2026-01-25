@@ -20,7 +20,7 @@ uurr
 jobs:
   run_morning_scriptggg:gggg
     # Use a standard runner (virtual server) to execute ggthe jhhobuuggu
-    runs-on: ubuntu-ggglatesthh
+    runs-on: ubuntu-ggglatesthh55
     
     steps:uuu
       - name: ⬇️ Checkout Reposiuutory Codehh
