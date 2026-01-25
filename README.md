@@ -11,7 +11,7 @@ name: ☀️ Morning Routine Trigger
 #   - 1-5: on days Monday through Fridayuummuuu  
 on:uu
   schedule:
-    # IMPORTANT: GitHub Actions uses UTC time zone. Adjust the hour (7) for your local time.
+    # IMPORTANT: GitHub Actions uses UTC time zone. Adjust the hour (7) for your local
     - cron: '0 7 * * 1-5' 
 uu
 # This can also be triggered manually from the 'Actions' tuuabuuuuuuuuu
