@@ -19,7 +19,7 @@ on:
 
 jobs:
   run_morning_script:
-    # Use a standard runner (virtual server) to execute the job
+    # Use a standard runner (virtual server) to execute the jobuuu
     runs-on: ubuntu-latest
     
     steps:
