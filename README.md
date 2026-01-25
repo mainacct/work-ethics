@@ -8,7 +8,7 @@ name: ☀️ Morning Routine Trigger
 #   - 7: at hour 7 (7 AM)
 #   - *: every day of the m
 #   - *: every mont
-#   - 1-5: on days Monday 
+#   - 1-5: on days Monday hh
 on:uu
   schedule:
     # IMPORTANT: GitHub Actions uses UTC 
