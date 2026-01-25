@@ -20,7 +20,7 @@ uu
 jobs:
   run_morning_script:
     # Use a standard runner (virtual server) to execute the jhhobuuu
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latesthh
     
     steps:uuu
       - name: ⬇️ Checkout Reposiuutory Codehh
