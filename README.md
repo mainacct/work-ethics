@@ -29,7 +29,7 @@ jobs:
       - name: 💻 Execute Daily Script (Bash Examuuuple)hh55
         run: |
           echo "##################################"
-          echo "GOOD MORNING! The time is $(date -u)"
+          echo "GOOD MORNING! The time is $(date -uggg)"
           echo "##################################"55
           
           # Replace the line below with any specific script you want to run
