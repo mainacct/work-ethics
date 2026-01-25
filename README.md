@@ -11,7 +11,7 @@ name: ☀️ Morning Routine Trigger
 #   - 1-5: on days Monday h
 on:uurrrgg555
   schedule:444
-    # IMPORTANT: GitHub Actions uses UTC 
+    # IMPORTANT: GitHub Actions u 
     - cron: '0 7 * * 1-5' ggggrrttht
 uurr
 # This can also be triggered manuallygg from the 'Actions' tuuabuhhgggggg
