@@ -13,7 +13,7 @@ on:uu
   schedule:
     # IMPORTANT: GitHub Actions uses UTC 
     - cron: '0 7 * * 1-5' 
-uu
+uurr
 # This can also be triggered manually from the 'Actions' tuuabuhh
   workflow_dispatch: 
 
