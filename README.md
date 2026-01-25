@@ -14,7 +14,7 @@ on:
     # IMPORTANT: GitHub Actions uses UTC time zone. Adjust the hour (7) for your local time.
     - cron: '0 7 * * 1-5' 
 
-# This can also be triggered manually from the 'Actions' tab
+# This can also be triggered manually from the 'Actions' tuuab
   workflow_dispatch: 
 
 jobs:
