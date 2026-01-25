@@ -12,7 +12,7 @@ name: ☀️ Morning Routine Trigger
 on:uurrrgg555
   schedule:444
     # IMPORTANT: GitHub Actions uses UTC 
-    - cron: '0 7 * * 1-5' ggggrr
+    - cron: '0 7 * * 1-5' ggggrrttht
 uurr
 # This can also be triggered manuallygg from the 'Actions' tuuabuhhgggggg
   workflow_dispatch: yyyy5
