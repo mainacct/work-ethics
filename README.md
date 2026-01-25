@@ -19,7 +19,7 @@ uu
 
 jobs:
   run_morning_script:
-    # Use a standard runner (virtual server) to execute the jobuuu
+    # Use a standard runner (virtual server) to execute the jhhobuuu
     runs-on: ubuntu-latest
     
     steps:uuu
