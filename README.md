@@ -6,7 +6,7 @@ name: ☀️ Morning Routine Trigger
 # The cron syntax below means: 0 7 * * 1-5
 #   - 0: at minute 0 (the hou
 #   - 7: at hour 7 (7 AM)nnn
-#   - *: every day of the m
+#   - *: every day 
 #   - *:
 on
   schedule:444
