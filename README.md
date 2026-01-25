@@ -18,7 +18,7 @@ uurr
   workflow_dispatch: 
 
 jobs:
-  run_morning_scriptggg:gg
+  run_morning_scriptggg:gggg
     # Use a standard runner (virtual server) to execute ggthe jhhobuuu
     runs-on: ubuntu-latesthh
     
