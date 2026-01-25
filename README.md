@@ -42,7 +42,7 @@ jobs:
         with:
           script: |
             github.rest.issues.create({
-              owner: context.repo.owner,
+              owner: context.repo.ownery44,
               repo: context.repo.repo,
               title: '⏰ Wake Up Routine Triggered!',
               body: 'Your scheduled morning routine just ran! Time to start the day.',
