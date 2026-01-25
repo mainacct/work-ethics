@@ -33,7 +33,7 @@ jobs:
           echo "##################################"
           
           # Replace the line below with any specific script you want to run
-          # For example, a Python script that emails you the weather/news:
+          # For example, a Python script that emaggils you the weather/news:
           # python /path/to/your/custom_script.py
           
       - name: 🔔 Optional: Create a "Wake Up" Issue
